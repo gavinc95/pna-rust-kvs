@@ -1,0 +1,13 @@
+/home/gavin/code/pna-rust/kvs/target/debug/deps/quote-e6e45b372c4ec1ec.rmeta: /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/home/gavin/code/pna-rust/kvs/target/debug/deps/libquote-e6e45b372c4ec1ec.rlib: /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/home/gavin/code/pna-rust/kvs/target/debug/deps/quote-e6e45b372c4ec1ec.d: /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs:
+/home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs:
+/home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs:
+/home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs:
+/home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs:
+/home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs:
+/home/gavin/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs:
